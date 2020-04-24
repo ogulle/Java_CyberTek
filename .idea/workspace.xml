@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a225154-47a4-4d10-a4cb-1f0b2abda47b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwW6L17r7Fw2CTqesQraErftvq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/logistic_regression" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ogull\Java_CyberTek\src\logistic_regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ogull\Java_CyberTek\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Birthdays">
+    <configuration name="Birthdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Birthdays" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Time_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time_Formatting" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.It.string" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repl.It.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Birthdays" />
+        <item itemvalue="Application.DateTime_Formatting" />
+        <item itemvalue="Application.DateTime" />
+        <item itemvalue="Application.Time_Formatting" />
+        <item itemvalue="Application.string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a225154-47a4-4d10-a4cb-1f0b2abda47b" name="Default Changelist" comment="" />
+      <created>1583853960116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583853960116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583859581838">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583859581838" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585580316830">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585580316830" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1585699240627">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585699240627" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1040/1920.0.1827.1080@0.0.1920.1040" timestamp="1587170214951" />
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587166953118" />
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587743721380" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1040/1920.0.1827.1080@0.0.1920.1040" timestamp="1587170214951" />
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587166953118" />
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587743721380" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1040/1920.0.1827.1080@0.0.1920.1040" timestamp="1587170214951" />
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587166953118" />
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587743721379" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1040/1920.0.1827.1080@0.0.1920.1040" timestamp="1587170214951" />
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587166953118" />
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587743721380" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587742913506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587742913506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587742913506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587751969386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587742913506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1583854344688">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583854344688" />
+    <state x="2584" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1587667843072">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585411554424" />
+    <state x="2584" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587667843072" />
+    <state x="664" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587185366098" />
+    <state x="2628" y="197" width="607" height="804" key="find.popup" timestamp="1584462109823">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2628" y="197" width="607" height="804" key="find.popup/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584462109823" />
+    <state x="2262" y="140" key="new project wizard" timestamp="1587669700004">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="140" key="new project wizard/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587669700004" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587270970204">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587270970204" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586715351356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/warmUp.java</url>
+          <line>3</line>
+          <properties class="day06_Shorthnd_LogicalOperators.warmUp" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
