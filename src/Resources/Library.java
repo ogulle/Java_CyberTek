@@ -65,7 +65,7 @@ public class Library {
 
     public static String FrequencyOfChars(String str) {
         String NonDup = Library.RemoveDuplicates(str);             //ABC
-        String result = ""; //coantisn the frequency of chars
+        String result = ""; //contains the frequency of chars
 
         for (int i = 0; i < NonDup.length(); i++) {
             String ch = "" + NonDup.charAt(i);//  "A"
@@ -74,5 +74,31 @@ public class Library {
         }
 
         return result;
+    }
+
+    public static int Frequency(String str, char ch) {
+        char[] strArray = str.toCharArray();
+
+        int count = 0;
+        for (char eachMatch : strArray) {
+            if (eachMatch == ch) {
+                count++;
+            }
+        }
+        return count;
+    }
+
+    public static String uniques(String str) {
+        String result = ""; //A
+        //A
+        for (int i = 0; i < str.length(); i++) {
+            int num = Frequency(str, str.charAt(i));
+            if (num == 1) {
+                result += str.charAt(i);
+            }
+        }
+
+        return result;
+
     }
 }

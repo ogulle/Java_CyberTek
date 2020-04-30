@@ -1,4 +1,4 @@
-package day24_Methods;
+package day26_MethodOverloading;
 
 import java.util.Arrays;
 
