@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a225154-47a4-4d10-a4cb-1f0b2abda47b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day24_Methods/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day24_Methods/MethodOverloading2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day24_Methods/TasksFromYesterday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/day24_Methods/TasksFromYesterday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day25_MethodsRecap/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/day25_MethodsRecap/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day25_MethodsRecap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/day25_MethodsRecap/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/day28_DateTime/DateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/day28_DateTime/DateTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_CyberTek/repl/It/string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_CyberTek/repl/It/string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/Array_Descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/Array_Descending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/BirthYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/BirthYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/ReturnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/ReturnMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/TasksFromYesterday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/TasksFromYesterday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24_Methods/returnMethods_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day24_Methods/returnMethods_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/FrequencyOfCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/FrequencyOfCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Dates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Find_Minimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Find_Minimum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/unique_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/unique_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl/It/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/It/string.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a225154-47a4-4d10-a4cb-1f0b2abda47b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,22 +18,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YwW6L17r7Fw2CTqesQraErftvq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/logistic_regression" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +46,20 @@
       <recent name="C:\Users\ogull\Java_CyberTek\src\logistic_regression" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTime">
+  <component name="RunManager" selected="Application.Birthdays">
+    <configuration name="Birthdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Birthdays" />
+      <module name="Java_CyberTek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime" />
       <module name="Java_CyberTek" />
@@ -129,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unique_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.unique_Arrays" />
-      <module name="Java_CyberTek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Birthdays" />
         <item itemvalue="Application.DateTime" />
         <item itemvalue="Application.LocalDate_Practice" />
         <item itemvalue="Application.Dates_Formatting" />
         <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.unique_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -242,10 +212,11 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587742913506" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587751969386" />
-    <state x="2381" y="162" key="SettingsEditor" timestamp="1583854344688">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1588536359788">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583854344688" />
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588536359788" />
     <state x="2584" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1588176832085">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
