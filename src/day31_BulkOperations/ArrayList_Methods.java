@@ -64,6 +64,12 @@ public class ArrayList_Methods {
 
         System.out.println(list3);
 
+        System.out.println(list3.size());
+
+        list3.clear();  //removes everything
+        boolean r4 = list3.isEmpty();
+        System.out.println(r4);
+
 
     }
 }
