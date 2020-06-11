@@ -1,4 +1,4 @@
-package OfficeHours.Practice_05_06_2020.Practice_05_06_2020;
+package OfficeHours;
 
     /*
     create a class called Developers

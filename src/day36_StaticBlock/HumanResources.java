@@ -1,6 +1,6 @@
 package day36_StaticBlock;
 
-import OfficeHours.Practice_05_06_2020.Practice_05_06_2020.Developer;
+import OfficeHours.Developer;
 
 public class HumanResources {
 
